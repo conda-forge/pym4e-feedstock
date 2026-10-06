@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.0"
+  version: "2.1.0"
 
 package:
   name: pym4e
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/Project-SEA-Stack/Python_Multibody_for_Everybody/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 2c1f1467fa2a0bb12c8fee3950e931e66f85c47f61fdc07af1be1669f6ddf829
+  sha256: 04a230985ee3cb5311849ed73a8cd63a619931c0a1da907e9ca0bb7ff4dadb7e
 
 build:
   noarch: python
